@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ewaqeaku.github.io/Hnv/sitemap_index.txt
+Sitemap: https://ewaqeaku.github.io/LrK/sitemap_index.txt
+Sitemap: https://ewaqeaku.github.io/noH/sitemap_index.txt
+Sitemap: https://ewaqeaku.github.io/sVm/sitemap_index.txt
